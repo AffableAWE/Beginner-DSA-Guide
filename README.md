@@ -43,7 +43,7 @@ This guide covers essential DSA topics, each accompanied by C++ implementations 
 3. **Two Pointers**
 4. **Sliding Window**
 5. **Trees & Graphs**
-6. **And more…**
+6. **Greedy and more…**
 
 Feel free to explore each section and tackle the problems to sharpen your skills.
 
