@@ -1,10 +1,10 @@
 # 🌟 **Beginner's Guide to Data Structures and Algorithms (DSA)**
 
-Welcome to the **Beginner's Guide to DSA**! This repository is crafted to assist you in mastering Data Structures and Algorithms using C++. By embarking on this journey, you've already taken a significant step toward enhancing your programming skills—congratulations on your commitment! 🎉
+Welcome to the **Beginner's Guide to DSA**! This repository is crafted to assist you in mastering Data Structures and Algorithms using C++. By embarking on this journey, you've already taken a significant step toward enhancing your programming skills—congratulations on your commitment! 
 
 ---
 
-## 💡 **My DSA Journey: A Love-Hate Relationship**
+## **My DSA Journey: A Love-Hate Relationship**
 
 Learning DSA was a challenging endeavor for me. One of the biggest hurdles I faced was the absence of a clear roadmap—a step-by-step guide on which data structures to learn first. I often found myself oscillating between topics, learning one concept only to switch back to another. While many suggest following a tech YouTuber’s playlist, and there are indeed numerous quality ones available, I discovered a critical insight:
 
@@ -14,7 +14,7 @@ Relying solely on tutorials can lead to a situation where you might complete an 
 
 ---
 
-## 🧠 **Lessons Learned**
+## **Lessons Learned**
 
 Here's my advice to you:
 
@@ -28,13 +28,13 @@ Yes, you may encounter failures along the way. However, facing challenges and ac
 
 ---
 
-## 🎯 **Purpose of This Guide**
+## **Purpose of This Guide**
 
 Having spent months trapped in tutorial dependency, mimicking others' knowledge rather than truly owning it, I don't want you to experience the same. This guide aims to provide a clear structure and hands-on learning experience to help you build a strong foundation in DSA.
 
 ---
 
-## 📚 **What to Expect**
+## **What to Expect**
 
 This guide covers essential DSA topics, each accompanied by C++ implementations to solidify your understanding:
 
@@ -49,8 +49,8 @@ Feel free to explore each section and tackle the problems to sharpen your skills
 
 ---
 
-## 🌈 **Final Thoughts**
+## **Final Thoughts**
 
 Remember, your DSA journey is unique, and it's never too late to start. Embrace the challenges, stay curious, and focus on understanding rather than just passive learning.
 
-Good luck on your DSA journey! 🚀
+Good luck on your DSA journey! 
