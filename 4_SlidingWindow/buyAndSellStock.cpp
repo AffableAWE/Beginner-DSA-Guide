@@ -30,5 +30,7 @@ int main() {
     int result = maxProfit(prices);
 
     cout<< result << endl;
+
+    return 0;
 }
 
