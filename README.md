@@ -51,6 +51,6 @@ Feel free to explore each section and tackle the problems to sharpen your skills
 
 ## **Final Thoughts**
 
-Remember, your DSA journey is unique, and it's never too late to start. Embrace the challenges, stay curious, and focus on understanding rather than just passive learning...
+Remember, your DSA journey is unique, and it's never too late to start. Embrace the challenges, stay curious, and focus on understanding rather than just passive learning.
 
 Good luck on your DSA journey! 
