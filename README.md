@@ -1,6 +1,6 @@
 # **Beginner's Guide to Data Structures and Algorithms (DSA)**
 
-Welcome to the **Beginner's Guide to DSA**! This repository is crafted to assist you in mastering Data Structures and Algorithms using C++. By embarking on this journey, you've already taken a significant step toward enhancing your programming skills—congratulations on your commitment!!!
+Welcome to the **Beginner's Guide to DSA**! This repository is crafted to assist you in mastering Data Structures and Algorithms using C++. By embarking on this journey, you've already taken a significant step toward enhancing your programming skills—congratulations on your commitment!
 
 ---
 
@@ -43,7 +43,7 @@ This guide covers essential DSA topics, each accompanied by C++ implementations 
 3. **Two Pointers**
 4. **Sliding Window**
 5. **Trees and Graphs**
-6. **Greedy and more…**
+6. **Greedy and more...**
 
 Feel free to explore each section and tackle the problems to sharpen your skills.
 
