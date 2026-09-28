@@ -6,7 +6,7 @@ Welcome to the **Beginner's Guide to DSA**! This repository is crafted to assist
 
 ## **My DSA Journey: A Love-Hate Relationship**
 
-Learning DSA was a challenging endeavor for me. One of the biggest hurdles I faced was the absence of a clear roadmap—a step-by-step guide on which data structures to learn first. I often found myself oscillating between topics, learning one concept only to switch back to another. While many suggest following a tech YouTuber’s playlist, and there are indeed numerous quality ones available, I discovered a critical insight:
+Learning DSA was a challenging endeavor for me. One of the biggest hurdles I faced was the absence of a clear roadmap—a step-by-step guide on which data structures to learn first. I often found myself oscillating between topics, learning one concept only to switch back to another. While many suggest following a tech YouTuber’s playlist, and there are indeed numerous quality ones available, I discovered a critical insight-
 
 **The Pitfall of Tutorial Dependency**
 
