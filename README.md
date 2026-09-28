@@ -16,7 +16,7 @@ Relying solely on tutorials can lead to a situation where you might complete an 
 
 ## **Lessons Learned**
 
-Here's my advice to you:
+Here's my advice to you-
 
 - **Avoid Blindly Following Tutorials**: Instead:
   - Begin by reading about the topics you wish to learn.
