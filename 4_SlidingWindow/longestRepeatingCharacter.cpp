@@ -2,7 +2,6 @@
 #include<unordered_map>
 #include<string>
 #include<algorithm>
-#include<math.h>
 
 using namespace std;
 
@@ -19,7 +18,7 @@ int characterReplacement(string s, int k) {
         max_freq = max(max_freq, freqMap[s[right]]); // Track the most frequent character
 
         // If the window size minus the frequency of the most frequent character is greater than k
-        // It meeans we need more replacements than allowed, so shrink the window
+        // It meeans we need more replacements than allowed, so shrink the window.
 
         if((right - left + 1) - max_freq > k) {
             freqMap[s[left]]--; // Remove the leftmost character from the window
