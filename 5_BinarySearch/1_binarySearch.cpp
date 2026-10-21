@@ -9,6 +9,8 @@ int search(vector<int>& nums, int target) {
     int right = n - 1;
 
     while (left <= right) {
+
+        // Using this to avoid overflow 
         int mid = left + (right - left) / 2;
 
         if (target == nums[mid]) {
