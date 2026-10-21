@@ -46,7 +46,7 @@ void printList(Node *&head) {
   cout << endl;
 }
 
-// Task 1: Insert at the Beginning
+// Task 1: Insert at the Beginning.
 Node *insertAtBeginning(Node *&head, int data) {
 
   // If the list is empty
@@ -63,7 +63,7 @@ Node *insertAtBeginning(Node *&head, int data) {
   return head;
 }
 
-// Task 2: Insert at a Specific Position
+// Task 2: Insert at a Specific Position.
 Node *insertAtSpecificPosition(Node *&head, int data, int position) {
 
   // If list is empty and Position is 0
@@ -78,7 +78,7 @@ Node *insertAtSpecificPosition(Node *&head, int data, int position) {
   Node *current = head;
   int count = 0;
 
-  // Traverse to the desired position or the end of the list
+  // Traverse to the desired position or the end of the list.
   while (current->next != nullptr && count < position - 1) {
     current = current->next;
     count++;
@@ -92,7 +92,7 @@ Node *insertAtSpecificPosition(Node *&head, int data, int position) {
   return head;
 }
 
-// Deleting a node by value
+// Deleting a node by value.
 Node *deleteByValue(Node *&head, int key) {
 
   // If the list is empty
@@ -108,7 +108,7 @@ Node *deleteByValue(Node *&head, int key) {
     return head;
   }
 
-  // Check for other nodes
+  // Check for other nodes.
   Node *temp = head;
   while (temp->next != nullptr) {
     if (temp->next->data == key) {
